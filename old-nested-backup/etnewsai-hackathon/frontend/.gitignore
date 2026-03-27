@@ -1,0 +1,18 @@
+﻿# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Next.js build output
+.next/
+out/
+dist/
+
+# Environment variables
+.env*.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp

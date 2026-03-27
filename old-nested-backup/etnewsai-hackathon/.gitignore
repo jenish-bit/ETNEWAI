@@ -1,0 +1,26 @@
+﻿# Dependencies
+node_modules/
+*.log
+.env*
+.DS_Store
+
+# Frontend (relative to this root)
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+
+# Backend (Django/Python)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

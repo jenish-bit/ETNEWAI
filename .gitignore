@@ -1,0 +1,10 @@
+﻿node_modules/
+*.log
+.env*
+.DS_Store
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+__pycache__/
+*.pyc
+db.sqlite3
